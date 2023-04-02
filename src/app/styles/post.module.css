@@ -1,0 +1,44 @@
+.post {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .post h1 {
+    margin-bottom: 1rem;
+  }
+  
+  .post p {
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+  }
+  
+  .post img {
+    max-width: 100%;
+    margin-bottom: 1.5rem;
+  }
+  
+  .post__comment {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .post__comment p {
+    margin-bottom: 0.5rem;
+  }
+  
+  .post__comment__author {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .post__comment__timestamp {
+    color: #666;
+    margin-bottom: 0.5rem;
+  }
+  
+  .post__comment__delete-button {
+    margin-left: 1rem;
+  }
+  
